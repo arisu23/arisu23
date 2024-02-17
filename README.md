@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arisu23
+- 👋 Hi, I’m Aries
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on creating Websites
