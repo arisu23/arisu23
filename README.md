@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aries
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on creating Websites
-- 📫 Email me @ dottedone23@gmail.com
+- 📫 Email me @ castanas.a.bsinfotech@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: I play online games for fun.
 
