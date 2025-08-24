@@ -1,12 +1,20 @@
-- 👋 Hi, I’m Aries
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React
-- 💞️ I’m looking to collaborate on creating Websites
-- 📫 Email me @ castanas.a.bsinfotech@gmail.com
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: I play online games for fun.
+Hi, I'm Aries! 👋
 
-<!---
-arisu23/arisu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub followers](https://img.shields.io/github/followers/aries?style=social)](https://github.com/aries)
+[![GitHub](https://img.shields.io/github/last-commit/aries/aries)](https://github.com/aries)
+
+🎓 BS Information Technology Student | 🌐 Web Development Enthusiast | 🚀 Aspiring Developer
+
+Welcome to my GitHub profile! I'm passionate about creating amazing web experiences and constantly learning new technologies to enhance my skills.
+
+🎯 Current Focus
+
+I'm dedicated to mastering the fundamentals of web development through hands-on projects and continuous learning.
+
+🛠️ Technologies I'm Learning
+```javascript
+const currentStack = {
+  frontend: ["HTML5", "CSS3", "JavaScript"],
+  framework: ["React.js"],
+  tools: ["Git", "GitHub", "VS Code"]
+};
