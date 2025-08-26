@@ -1,7 +1,7 @@
 Hi, I'm Aries! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/aries?style=social)](https://github.com/aries)
-[![GitHub](https://img.shields.io/github/last-commit/aries/aries)](https://github.com/aries)
+[![GitHub followers](https://img.shields.io/github/followers/arisu23?style=social)](https://github.com/arisu23)
+[![GitHub](https://img.shields.io/github/last-commit/arisu23/arisu23)](https://github.com/arisu23)
 
 🎓 BS Information Technology Student | 🌐 Web Development Enthusiast | 🚀 Aspiring Developer
 
